@@ -1,0 +1,21 @@
+{
+  "type": "panel",
+  "name": "Chista Status Panel",
+  "id": "chista-status-panel",
+
+  "info": {
+    "description": "Centrifuge Status Panel for grafana",
+    "author": {
+      "name": "Chista High Tech Inc.",
+      "url": "http://www.mychista.com"
+    },
+    "keywords": ["status", "panel"],
+    "version": "1.0.0",
+    "updated": "2017-05-10"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "3.x.x",
+    "plugins": [ ]
+  }
+}
